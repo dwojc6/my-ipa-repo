@@ -1,0 +1,15 @@
+config.json
+db.sqlite3
+__pycache__/
+*.log
+*.ipa
+cyan/
+# Add specific scripts below if you want to hide source code
+*.py
+*.session
+*.txt
+pyzule-rw/
+*.sh
+*.ipa
+*.deb
+.gitignore
