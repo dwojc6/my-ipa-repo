@@ -1,7 +1,7 @@
 {
   "name": "Slowie's IPA Library",
   "identifier": "com.slowie.repo",
-  "iconURL": "https://repo.neelyha.tk/repoicon.png",
+  "iconURL": "https://raw.githubusercontent.com/dwojc6/my-ipa-repo/refs/heads/main/icon.png",
   "apps": [
     {
       "name": "Swiftgram 12.1.1 Build 245 TG Extra 1.6 and PREMIUM swiftgram Liquid Glass Beta",
@@ -324,7 +324,7 @@
     },
     {
       "name": "Feather",
-      "bundleIdentifier": "com.slowie.feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
       "version": "Latest",
       "versionDate": "2025-09-20T22:10:54+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/UZxNna5b",
@@ -335,7 +335,7 @@
     },
     {
       "name": "Fitbod",
-      "bundleIdentifier": "com.slowie.fitbod",
+      "bundleIdentifier": "com.fitbod",
       "version": "7.17.0",
       "versionDate": "2025-09-23T20:53:45+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/5GQBwdQG",
@@ -357,7 +357,7 @@
     },
     {
       "name": "flipclock",
-      "bundleIdentifier": "com.slowie.flipclock",
+      "bundleIdentifier": "com.cuilingshi.flipclock",
       "version": "6.10",
       "versionDate": "2025-09-23T21:28:16+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/ZN4jMoCY",
@@ -379,7 +379,7 @@
     },
     {
       "name": "FreeYourMusic",
-      "bundleIdentifier": "com.slowie.freeyourmusic",
+      "bundleIdentifier": "io.stampapp.Stamp",
       "version": "9.13.0",
       "versionDate": "2025-09-20T20:29:21+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/rFr6PJia",
@@ -478,7 +478,7 @@
     },
     {
       "name": "ImagineArt",
-      "bundleIdentifier": "com.slowie.imagineart",
+      "bundleIdentifier": "com.vyro.Imagine",
       "version": "3.0.2",
       "versionDate": "2025-09-23T21:29:43+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/8u5dwhP1",
@@ -687,7 +687,7 @@
     },
     {
       "name": "Istb",
-      "bundleIdentifier": "com.slowie.istb",
+      "bundleIdentifier": "com.na.istb",
       "version": "1.28.10",
       "versionDate": "2025-09-20T20:29:21+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/VoxAR3FU",
@@ -764,7 +764,7 @@
     },
     {
       "name": "Lingokids",
-      "bundleIdentifier": "com.slowie.lingokids",
+      "bundleIdentifier": "es.monkimun.lingokids",
       "version": "8.123.0",
       "versionDate": "2025-09-23T21:18:50+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/2rbEkuGG",
@@ -940,7 +940,7 @@
     },
     {
       "name": "Pedometer",
-      "bundleIdentifier": "com.slowie.pedometer",
+      "bundleIdentifier": "com.crossforward.pedometer",
       "version": "7.0.3",
       "versionDate": "2025-09-23T21:29:57+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/RdUZTkYk",
@@ -962,7 +962,7 @@
     },
     {
       "name": "Photoleap",
-      "bundleIdentifier": "com.slowie.photoleap",
+      "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "version": "2.116.4",
       "versionDate": "2025-09-20T20:29:21+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/yjBpHyHd",
@@ -1017,7 +1017,7 @@
     },
     {
       "name": "Polarr",
-      "bundleIdentifier": "com.slowie.polarr",
+      "bundleIdentifier": "co.polarr.ppe",
       "version": "6.11.4",
       "versionDate": "2025-09-20T20:29:21+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/ndYXeavr",
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "SnapEdit",
-      "bundleIdentifier": "com.slowie.snapedit",
+      "bundleIdentifier": "com.sfun.snapedit",
       "version": "6.0.8",
       "versionDate": "2025-09-23T20:55:11+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/MuiJPr68",
@@ -1248,7 +1248,7 @@
     },
     {
       "name": "superagent",
-      "bundleIdentifier": "com.slowie.superagent",
+      "bundleIdentifier": "com.agent.super.extension.safari",
       "version": "3.35.0",
       "versionDate": "2025-09-23T21:28:32+00:00",
       "downloadURL": "https://pixeldrain.com/api/file/AfGYFvB3",
@@ -46804,17 +46804,6 @@
       "size": 90653517
     },
     {
-      "name": "SnapEdit",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "version": "6.0.8",
-      "versionDate": "2025-09-23",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/SnapEdit_6.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "size": 124022832
-    },
-    {
       "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "11.24.1",
@@ -46934,17 +46923,6 @@
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "size": 134352177
-    },
-    {
-      "name": "Fitbod",
-      "bundleIdentifier": "com.fitbod",
-      "version": "7.17.0",
-      "versionDate": "2025-09-23",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/Fitbod_7.17.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fitbod.png",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "size": 99003637
     },
     {
       "name": "WallpapersCentral",
@@ -54480,17 +54458,6 @@
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "size": 14306870
-    },
-    {
-      "name": "Photoleap",
-      "bundleIdentifier": "com.lightricks.Enlight-Editor",
-      "version": "2.116.4",
-      "versionDate": "2025-08-20",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Photoleap_2.116.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "size": 398007456
     },
     {
       "name": "ColorPop",
